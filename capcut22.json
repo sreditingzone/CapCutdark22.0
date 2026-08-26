@@ -1,13 +1,15 @@
-{
-  "appName": "CapCut",
-  "packageName": "com.lemon.lvoverseas",
-  "versionCode": 19101601,
-  "updateUrl": "https://t.me/sreditingzoneoffical",
-  "title": "Update Required v22.0.0 🔴 New",
-  "description": "We have released a brand new update for CapCut with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
-  "isForce": true,
-  "isExpired": true,
-  "expiryDate": "2025-01-07",
-  "closeButtonText": "Cancel",
-  "updateButtonText": "Get Update Now"
-}
+[
+  {
+    "appName": "CapCut",
+    "packageName": "com.lemon.lvoverseas",
+    "versionCode": 19101601,
+    "updateUrl": "https://t.me/sreditingzoneofficial",
+    "title": "Update Required v22.0.0 🍎 New",
+    "description": "We have released a brand new update for capcut with exclusive premium features and bug fixes. please download the latest version now to continue using the app.",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2025-01-07",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Get Update Now"
+  }
+]
